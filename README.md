@@ -4,7 +4,7 @@ ____________________________________________________
 
 🌱 I’m currently learning:\
 \
-`Java` `Python` `HTML and CSS` `Javascript` `React` and `MySQL`
+`Java` `Python` `HTML` `CSS` `Javascript` `React` `C++` and `MySQL`
 \
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,postgresql,postman,cpp)](https://skillicons.dev)
 
