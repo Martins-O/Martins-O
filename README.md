@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Martins O Jojolola
-A Software Engineer Trainee at Semicolon Africa 
+## A Software Engineer Trainee at Semicolon Africa 
 ____________________________________________________
 
 🌱 I’m currently learning:\
