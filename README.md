@@ -4,9 +4,9 @@ ____________________________________________________
 
 🌱 I’m currently learning:\
 \
-`Java` `Python` `HTML` `CSS` `Javascript` `React` `C++` and `MySQL`
+`Java` `Python` `HTML and CSS` `Javascript` `React` and `MySQL`
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,postgresql,postman,c++)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,postgresql,postman,cpp)](https://skillicons.dev)
 
 
 - I am also learning SpringBoot and Django frameworks, and React
