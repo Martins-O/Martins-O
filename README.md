@@ -21,7 +21,7 @@ ____________________________________________________
  [![trophy](https://github-profile-trophy.vercel.app/?username=Martins-O&theme=nord)](https://github.com/Martins-O/github-profile-trophy)
  ____________________________________________________
  📫 How to reach me:
- - LinkedIn: [Martins O Jojolola](https://www.linkedin.com/in/martins-oluwaseun-jojolola/)
+ - LinkedIn: [Martis O Jojolola](https://www.linkedin.com/in/martins-oluwaseun-jojolola/)
  - Twitter: [Martins O Jojolola](https://twitter.com/REGENT_VICEROY)
  - E-mail address: [jojololamartins686@gmail.com](jojololamartins686@gmail.com)
  - Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=Martins-O&color=green&style=flat-square)
