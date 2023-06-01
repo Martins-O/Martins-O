@@ -2,7 +2,7 @@
 
 > If we pull together and commit ourselves, then we can push through anything.
 
-| Rank | THING-TO-RANK |
+| Rank |   LANGUGES    |
 |-----:|---------------|
 |     1|          JAVA |
 |     2|         PYTHON|
