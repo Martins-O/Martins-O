@@ -2,28 +2,28 @@
 
 > If we pull together and commit ourselves, then we can push through anything.
 
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|          JAVA |
+|     2|         PYTHON|
+|     3|      JAVASCRIT|
+|     4|            SQL|
+
+
 ![me](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
 ## A Software Engineer Trainee at Semicolon Africa
 ____________________________________________________
 
 🌱 I’m currently learning:\
 \
-`Java` `Python` `HTML` `CSS` `Javascript` `React` `C++`  `POSTMAN`and `MYSQL`
+`Java` `Python` `HTML` `CSS` `Javascript` `React` `C++`  `POSTMAN` `POSTGRESQL` and `MYSQL`
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react,cpp,postman,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react,cpp,postman,postgres,mysql)](https://skillicons.dev)
 
 
 - I am also learning SpringBoot and Django frameworks, and React
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
- 
-<summary>My TOP-LANGUAGES</summary> 
- | Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|          JAVA |
-|     2|         PYTHON|
-|     3|      JAVASCRIT|
-|     4|            SQL|
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
  Trophies:\
