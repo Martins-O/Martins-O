@@ -6,21 +6,24 @@ ____________________________________________________
 
 🌱 I’m currently learning:\
 \
-`Java` `Python` `HTML` `CSS` `Javascript` `React` `C++` and `MySQL`
+`Java` `Python` `HTML` `CSS` `Javascript` `React` `C++`  `POSTMAN`and `SQL`
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react,mysql,postgresql,postman,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react,cpp,postman,sql)](https://skillicons.dev)
 
 
 - I am also learning SpringBoot and Django frameworks, and React
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
  
+ <details>
+<summary>My TOP-LANGUAGES</summary> 
  | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1|          JAVA |
 |     2|         PYTHON|
 |     3|      JAVASCRIT|
-|     4|          MYSQL|
+|     4|            SQL|
+ <details open>
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
  Trophies:\
