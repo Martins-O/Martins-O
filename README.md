@@ -15,12 +15,13 @@ ____________________________________________________
 
 🌱 I’m currently learning:\
 \
-`Java` `Python` `HTML` `CSS` `Javascript` `React` `C++`  `POSTMAN` `POSTGRESQL` and `MYSQL`
+`Java` `Python` `HTML` `CSS` `Javascript` `C++`  `POSTMAN` `POSTGRESQL` and `MYSQL`
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,react,cpp,postman,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,cpp,postman,postgres,mysql)](https://skillicons.dev)
 
 
-- I am also learning SpringBoot and Django frameworks, and React
+- I am also learning SpringBoot and Django frameworks, nodejs and Reactjs
+[![My Skills](https://skillicons.dev/icons?i=spring boot,django,react,nodejs)](https://skillicons.dev)
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
  
@@ -30,7 +31,7 @@ ____________________________________________________
  [![trophy](https://github-profile-trophy.vercel.app/?username=Martins-O&theme=nord)](https://github.com/Martins-O/github-profile-trophy)
  ____________________________________________________
  📫 How to reach me:
- - LinkedIn: [Martis O Jojolola](https://www.linkedin.com/in/martins-oluwaseun-jojolola/)
+ - LinkedIn: [Martins O Jojolola](https://www.linkedin.com/in/martins-oluwaseun-jojolola/)
  - Twitter: [Martins O Jojolola](https://twitter.com/REGENT_VICEROY)
  - E-mail address: [jojololamartins686@gmail.com](jojololamartins686@gmail.com)
  - Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=Martins-O&color=green&style=flat-square)
