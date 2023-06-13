@@ -20,7 +20,10 @@ ____________________________________________________
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,cpp,postman,postgres,mysql)](https://skillicons.dev)
 
 
-- I am also learning SpringBoot and Django frameworks, nodejs and Reactjs
+🌱 I am also learning:\
+\
+`SpringBoot` `Django` `nodejs and` and `Reactjs`
+\
 [![My Skills](https://skillicons.dev/icons?i=spring boot,django,react,nodejs)](https://skillicons.dev)
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
