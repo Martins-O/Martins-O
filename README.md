@@ -22,9 +22,10 @@ ____________________________________________________
 
 🌱 I am also learning:\
 \
-`SpringBoot` `Django` `nodejs and` and `Reactjs`
+`SpringBoot` `Django` `Reactjs` `nodejs` and `express`
 \
-[![My Skills](https://skillicons.dev/icons?i=spring boot,django,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,django,react,nodejs,express)](https://skillicons.dev)
+
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
  
