@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Martins O Jojolola
-## A Software Engineer
+## Software Engineer
 
 > If we pull together and commit ourselves, then we can push through anything.
 
