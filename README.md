@@ -39,7 +39,8 @@ ____________________________________________________
  - Twitter: [Martins O Jojolola](https://twitter.com/DevMartinsO)
  - E-mail address: [jojololamartins686@gmail.com](jojololamartins686@gmail.com)
  - Dev.io: [Martins O Jojolola](https://dev.to/dev_martins_o)
- - Profile Views: ![Profile Views](https://komarev.com/ghpvc/?username=Martins-O&color=green&style=flat-square)
+ - Instagram: [Martins O Jojolola](https://www.instagram.com/devmartinso/)
+ - Profile Views:![Profile Views](https://komarev.com/ghpvc/?username=Martins-O&color=green)
    
  ![Martins O Jojolola's Github stats](https://github-readme-stats.vercel.app/api?username=Martins-O&theme=highcontrast&show_icons=true&count_private=true)
  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-O&layout=compact)
