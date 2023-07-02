@@ -6,25 +6,24 @@
 | Rank |   LANGUGES    |
 |-----:|---------------|
 |     1|          JAVA |
-|     2|         PYTHON|
-|     3|      JAVASCRIT|
-|     4|            SQL|
+|     2|      JAVASCRIT|
+|     3|            SQL|
 
 ![me](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
 ____________________________________________________
 
 🌱 I’m currently learning:\
 \
-`Java` `Python` `HTML` `CSS` `Javascript` `C++`  `POSTMAN` `POSTGRESQL` and `MYSQL`
+`Java` `HTML` `CSS` `Javascript` `C++`  `POSTMAN` `POSTGRESQL` and `MYSQL`
 \
-[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,cpp,postman,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,cpp,postman,postgres,mysql)](https://skillicons.dev)
 
 
 🌱 I am also learning:\
 \
-`SpringBoot` `Django` `Reactjs` `nodejs` and `express`
+`SpringBoot` `Reactjs` `nodejs` and `express`
 \
-[![My Skills](https://skillicons.dev/icons?i=spring,django,react,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express)](https://skillicons.dev)
 
  
  💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
