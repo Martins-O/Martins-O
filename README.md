@@ -32,6 +32,11 @@ ____________________________________________________
  Trophies:\
  \
  [![trophy](https://github-profile-trophy.vercel.app/?username=Martins-O&theme=nord)](https://github.com/Martins-O/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Martins-O&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://linkedin.com/in/martins-oluwaseun-jojolola/)
+<!--- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ... --->
  ____________________________________________________
  📫 How to reach me:
  - LinkedIn: [Martins O Jojolola](https://www.linkedin.com/in/martins-oluwaseun-jojolola/)
