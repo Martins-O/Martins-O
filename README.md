@@ -21,12 +21,12 @@ ____________________________________________________
 
 🌱 I am also learning:\
 \
-`SpringBoot` `Reactjs` `nodejs` and `express`
+`SpringBoot` `quarkus` `Reactjs` `nodejs` and `express`
 \
-[![My Skills](https://skillicons.dev/icons?i=spring,react,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,Quarkus,react,nodejs,express)](https://skillicons.dev)
 
  
- 💞️ I’m looking to collaborate on any project, gather experience and expand my knowledge.
+ 💞️ I’m looking to collaborate on any project, gather experience, and expand my knowledge.
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
  Trophies:\
