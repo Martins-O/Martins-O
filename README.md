@@ -8,22 +8,23 @@
 |     1|          JAVA |
 |     2|      JAVASCRIT|
 |     3|            SQL|
+|     4|             C#|
 
 ![me](https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
 ____________________________________________________
 
 🌱 I’m currently learning:\
 \
-`Java` `HTML` `CSS` `Javascript` `C++`  `POSTMAN` `POSTGRESQL` and `MYSQL`
+`Java` `HTML` `CSS` `Javascript` `C#`  `POSTMAN` `POSTGRESQL` and `MYSQL`
 \
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,cpp,postman,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,c#,postman,postgres,mysql)](https://skillicons.dev)
 
 
 🌱 I am also learning:\
 \
-`SpringBoot` `quarkus` `Reactjs` `nodejs` and `express`
+`SpringBoot` `quarkus` `Reactjs` `nodejs` `ASP.NET` and `express`
 \
-[![My Skills](https://skillicons.dev/icons?i=spring,Quarkus,react,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,asp.net,react,nodejs,express)](https://skillicons.dev)
 
  
  💞️ I’m looking to collaborate on any project, gather experience, and expand my knowledge.
