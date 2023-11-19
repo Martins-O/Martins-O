@@ -35,6 +35,10 @@ ____________________________________________________
  [![trophy](https://github-profile-trophy.vercel.app/?username=Martins-O&theme=nord)](https://github.com/Martins-O/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Martins-O&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://linkedin.com/in/martins-oluwaseun-jojolola/)
+
+![Martins-O's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martins-O&show_icons=true&theme=radical)
+
+[![Martins-O's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Martins-O&layout=pie&hide=python)](https://github.com/Martins-O/github-readme-stats)
 <!--- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... --->
