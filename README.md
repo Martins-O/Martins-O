@@ -24,7 +24,7 @@ ____________________________________________________
 \
 `SpringBoot` `quarkus` `Reactjs` `nodejs` `ASP.NET` and `express`
 \
-[![My Skills](https://skillicons.dev/icons?i=spring,asp.net,react,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,dotnet,react,nodejs,express)](https://skillicons.dev)
 
  
  💞️ I’m looking to collaborate on any project, gather experience, and expand my knowledge.
