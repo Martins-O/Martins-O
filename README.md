@@ -1,4 +1,4 @@
-# 🚀 Updated GitHub Profile: Martins O Jojolola
+# 🚀 Martins O Jojolola
 
 ## 💻 Software Engineer | Web3 Developer | Blockchain Enthusiast
 
