@@ -11,8 +11,8 @@
 |     1| Java            | Solidity              |
 |     2| JavaScript/TypeScript | Web3.js         |
 |     3| SQL             | Hardhat               |
-|     4| C#              | Truffle Suite         |
-|     5| PHP             | Foundry                  |
+|     4| C#              | EtherJs/Viem         |
+|     5| Phython           | Foundry                  |
 
 ---
 
@@ -47,7 +47,7 @@
 
 ```solidity
 // Sample Smart Contract
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.20;
 
 contract HelloWeb3 {
     string public greeting = "Building decentralized futures!";
@@ -86,7 +86,7 @@ contract HelloWeb3 {
 
 📫 **Reach me directly:**  
 ✉️ [jojololamartins686@gmail.com](mailto:jojololamartins686@gmail.com)  
-🌍 [Personal Portfolio](#) *(coming soon)*  
+🌍 [Personal Portfolio](https://martins-o-jojolola.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Martins-O&color=00ff00&style=flat-square)
 
