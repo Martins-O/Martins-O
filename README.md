@@ -3,6 +3,7 @@
 ## 💻 Software Engineer | Web3 Developer | Blockchain Enthusiast
 
 > "In blockchain we trust - together we can build decentralized futures."
+> "Verify - Don't trust."
 
 ### 🛠 Core Tech Stack
 
@@ -12,12 +13,9 @@
 |     2| JavaScript/TypeScript | Web3.js         |
 |     3| SQL             | Hardhat               |
 |     4| C#              | EtherJs/Viem         |
-|     5| Phython           | Foundry                  |
+|     5| Python           | Foundry                  |
 
 ---
-[![committers.top badge](https://user-badge.committers.top/nigeria_public/USERNAME.svg)](https://user-badge.committers.top/nigeria_public/Martins-O)
-
-
 ## 🔥 Current Focus
 
 ### 🌱 Mastering Web3 Technologies
