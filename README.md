@@ -40,9 +40,9 @@ Experienced **full-stack developer** specializing in blockchain technology and d
 <br>
 
 ```text
-Solidity      ████████████████████░  95%
-Rust          ███████████████░░░░░░  75%
-Web3.js       ████████████████████░  90%
+Solidity      ████████████████░░░░░ 80%
+Rust          ███████████░░░░░░░░░░ 65%
+Web3.js       █████████████████░░░░ 85%
 Ethers.js     ████████████████████░  90%
 Hardhat       ███████████████████░░  85%
 Foundry       ██████████████░░░░░░░  70%
