@@ -21,7 +21,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-**Blockchain & smart contract engineer** with 3+ years of Web3 development experience and 2+ years in backend engineering. Graduate of **Web3Bridge** and **Semicolon Africa**. I build cross-chain protocols, DeFi primitives, and full-stack dApps — competing and shipping across EVM, Arbitrum, Polkadot, Solana, Base, Flow, Stacks, and more.
+**Blockchain & smart contract engineer** with 3+ years of Web3 development experience and backend engineering. Graduate of **Web3Bridge** and **Semicolon Africa**. I build cross-chain protocols, DeFi primitives, and full-stack dApps — competing and shipping across EVM, Arbitrum, Polkadot, Solana, Base, Flow, Stacks, and more.
 
 **Core Competencies:**
 - ⛓️ Smart Contract Development (Solidity, Rust/ink!, Cairo)
